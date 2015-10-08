@@ -17,7 +17,6 @@ x=0;
   q =floor(random(480));
  w=floor(random(200));
   h=16;
-  
 }
 
 void draw() {
